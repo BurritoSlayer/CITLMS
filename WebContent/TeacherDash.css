@@ -1,0 +1,58 @@
+.sbars {
+	color: white !important;
+	background-color: #1A0000 !important; 
+	border-top-right-radius: 10px !important; 
+	border-bottom-right-radius: 10px !important;
+}
+
+.topbar {
+	border-top-right-radius: 10px !important;	
+}
+
+.bottombar {
+	border-bottom-right-radius: 10px !important;
+}
+
+.hovercolor:hover {
+	background-color: #665252 !important;
+	color: white !important; 
+}
+
+.nav-sidebar > li > a {
+	color: white;
+}
+
+.panel-default>.panel-heading {
+	background-color: #B20000;
+	text-align: center;
+	color: White;
+	font-size: 200%;
+}
+
+.panel-default>.panel-body {
+	background-color: #F0E6E6;
+}
+
+.modal-backdrop {
+    z-index: 1020 !important;
+}
+
+.emptyspace {
+	height: 100px;
+	width: 100px;	
+}
+
+.extra {
+	background-color: #FFD8D8; /* alt color for panel body*/
+	background-color: #CCADAD; /* alt color for panel body*/
+}
+
+.navbar-nav>li>a {
+  padding-top: 1px !important;
+  padding-bottom: 1px !important;
+}
+
+#role {
+	color: #9d9d9d !important;
+	text-align: center;
+}
